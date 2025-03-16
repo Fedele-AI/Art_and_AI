@@ -1,0 +1,9 @@
+matplotlib
+numpy
+scikit-learn
+scipy
+pylsl
+muselsl
+python-osc
+paramiko
+google-generativeai
