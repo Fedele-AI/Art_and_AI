@@ -21,7 +21,7 @@ This repository explores various applications of generative AI in the realms of 
 
 <img src="https://github.gatech.edu/Fedele-AI/Art_and_AI/assets/79958/ed25a950-335c-4460-83ec-f1a6c62f50b4" alt="gpl-v3-logo-corrected" width="136" height="68">
 
-#### Author and TA: [Kenneth (Alex) Jenkins](https://alexj.io)
+#### Author: [Kenneth (Alex) Jenkins](https://alexj.io)
 
 #### Professor: [Dr. Francesco Fedele](https://ce.gatech.edu/directory/person/francesco-fedele)
 
