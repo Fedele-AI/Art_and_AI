@@ -23,7 +23,7 @@ It explores various applications of generative AI in the realms of art and creat
 
 #### Author and TA: [Kenneth (Alex) Jenkins](https://alexj.io)
 
-#### Professors: [Dr. Francesco Fedele](https://ce.gatech.edu/directory/person/francesco-fedele) and [Dr. Mark Leibert](https://lmc.gatech.edu/people/person/mark-leibert)
+#### Professor: [Dr. Francesco Fedele](https://ce.gatech.edu/directory/person/francesco-fedele)
 
 #### Special Thanks To: [Dennis Frank](https://www.linkedin.com/in/dennis-frank-cs/) #YouGotOut, Go Jackets! 🐝
 
