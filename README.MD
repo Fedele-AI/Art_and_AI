@@ -4,7 +4,6 @@
 
 <img src="./assets/img/ART_AND_AI.png" alt="Art and AI" width="300" height="300">
 
-#<img src="./assets/img/buzz.jpg" alt="Buzz is buzy coding!" width="300" height="300">
 
 #### Powered by:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
