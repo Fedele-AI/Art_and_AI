@@ -2,7 +2,7 @@
 
 # Art & Generative AI
 
-<img src="./assets/img/ART_AND_AI.png" alt="Art and AI" width="400" height="400">
+<img src="./assets/img/ART_AND_AI.png" alt="Art and AI" width="300" height="300">
 
 
 #### Powered by:
