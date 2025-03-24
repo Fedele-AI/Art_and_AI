@@ -19,7 +19,7 @@
 
 This repository explores various applications of generative AI in the realms of art and creativity, including brainwave data retrieval and visualization, music generation, AI-powered storytelling, image generation, and video generation.
 
-<img src="https://github.gatech.edu/Fedele-AI/Art_and_AI/assets/79958/ed25a950-335c-4460-83ec-f1a6c62f50b4" alt="gpl-v3-logo-corrected" width="136" height="68">
+<img src="./assets/img/gplv3.svg" alt="gpl-v3-logo-corrected" width="136" height="68">
 
 #### Author: [Kenneth (Alex) Jenkins](https://alexj.io)
 
