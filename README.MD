@@ -15,9 +15,9 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   
-![](https://view-counter.tobyhagan.com/?user={Fedele-AI}/{Art_and_AI})
-
 #### About: 
+
+![](https://view-counter.tobyhagan.com/?user={Fedele-AI}/{Art_and_AI})
 
 This repository explores various applications of generative AI in the realms of art and creativity, including brainwave data retrieval and visualization, music generation, AI-powered storytelling, image generation, and video generation.
 
