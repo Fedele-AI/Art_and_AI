@@ -259,7 +259,7 @@ python -m pip install -r requirements.txt
 ```
 
 > [!NOTE]
-> Linux support is limited to Debian/Ubuntu based systems only. [See this issue](https://github.gatech.edu/Fedele-AI/Art_and_AI/issues/2).
+> Linux support is limited to Debian/Ubuntu based systems only.
 
 ## MUSE Demo
 > [!NOTE]
