@@ -33,10 +33,6 @@ This repository explores various applications of generative AI in the realms of 
 
 ---
 
-> [!CAUTION]
-> Code inside the `museDemo` folder is a work in progress.
-
-
 ## Table of Contents 📖
 
 - [Foreword](#foreword)
@@ -318,7 +314,7 @@ The course has been approved to utilize Georgia Tech's newly opened [AI Makerspa
 This facility, established in collaboration with NVIDIA, offers a virtual gateway to a high-performance computing environment, enhancing hands-on learning experiences in AI. This code has been optimized to run on the NVIDIA H100 GPU using CUDA.
 
 <p align="center">
-  <img src="https://github.gatech.edu/Fedele-AI/Art_and_AI/assets/79958/410fcbbc-1175-4bd8-9701-f37b2b70aa82" alt="nvidia" width="384" height="384">
+  <img src="./assets/img/comic.jpg" alt="NVIDIA Moment" width="50%">
 </p>
 
 To run the provided code, you can upload it through the PACE Open OnDemand web interface. [Access the web interface here](https://vpn.gatech.edu/https/ondemand-ice.pace.gatech.edu/) (GT VPN required). This platform allows you to manage files and execute applications within a user-friendly browser environment.
