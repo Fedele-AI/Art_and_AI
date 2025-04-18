@@ -6,10 +6,10 @@
 
 ### Written by: [Dr. Francesco Fedele](https://ce.gatech.edu/directory/person/francesco-fedele) & [Kenneth (Alex) Jenkins](https://alexj.io)
 
+</div>
+
 > [!CAUTION]
 > We've moved! Please visit https://github.com/Fedele-AI/AI_Fundamentals - Thanks!
-
-</div>
 
 ## Introduction
 Artificial intelligence (AI) is a broad field of computer science that focuses on creating machines capable of intelligent behavior. AI systems can learn from data, identify patterns, and make decisions with minimal human intervention. The goal of AI is to develop systems that can perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation.
