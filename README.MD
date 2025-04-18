@@ -29,6 +29,8 @@ This repository explores various applications of generative AI in the realms of 
 
 #### Special Thanks To: [Dennis Frank](https://www.linkedin.com/in/dennis-frank-cs/) #YouGotOut, Go Jackets! 🐝
 
+#### Version: Spring 2025
+
 </div>
 
 ---
