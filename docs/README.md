@@ -6,6 +6,9 @@
 
 ### Written by: [Dr. Francesco Fedele](https://ce.gatech.edu/directory/person/francesco-fedele) & [Kenneth (Alex) Jenkins](https://alexj.io)
 
+> [!CAUTION]
+> We've moved! Please visit https://github.com/Fedele-AI/AI_Fundamentals - Thanks!
+
 </div>
 
 ## Introduction
